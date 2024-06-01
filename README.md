@@ -8,4 +8,5 @@ Mahasiswa Bisnis Digital yang aktif dalam mengikuti beberapa program Kampus Merd
 - https://makanlek.netlify.app/
 - https://bidwi.github.io/notes/
 - https://bidwi.github.io/RakBuku/
+- https://github.com/bidwi/rak-buku-api/
 - https://bidwi.github.io/GamePattern/
