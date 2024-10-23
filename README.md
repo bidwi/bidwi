@@ -5,8 +5,8 @@ Mahasiswa Bisnis Digital yang aktif dalam mengikuti beberapa program Kampus Merd
 -  Infinite Learning Studi Independen Bersertifikat Web Development Batch 5
 #
 ### 🔗Proyek saya (Proyek dari SIB Dicoding Cycle 6)🔗
-- [Benah Kota](https://github.com/bidwi/BenahKota) (server website sedang maintenance)
 - [Makan Mana Lek](https://makanlek.netlify.app/)
+- [Benah Kota](https://github.com/bidwi/BenahKota) (server website sedang maintenance)
 - [Notes](https://bidwi.github.io/notes/)
 - [Rak Buku](https://bidwi.github.io/RakBuku/)
 - [Rak Buku API](https://github.com/bidwi/rak-buku-api/)
