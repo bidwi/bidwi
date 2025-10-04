@@ -1,5 +1,5 @@
 ##  🙌 Halo, Saya Billy Dwi Prakoso! 🙌
-Lulusan Bisnis Digital yang aktif mengikuti beberapa program Kampus Merdeka. berikut adalah beberapa pengalaman saya:
+Lulusan Bisnis Digital yang aktif mengikuti beberapa program Kampus Merdeka. Berikut pengalaman saya:
 
 -  Front End & Back End Mentor at Coding Camp 2025 by DBS Foundation
 -  SIB Dicoding Cycle 6 Pengembang Front-End Web Dan Back-End
